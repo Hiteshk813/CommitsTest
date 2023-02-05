@@ -8,11 +8,15 @@ public class CrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudApplication.class, args);
+<<<<<<< HEAD
 		System.out.println("Committing the code 2nd time");
 		System.out.println("Committing the code 3rd time");
 		System.out.println("Committing the code 4rd time");
 		System.out.println("Committing the code 5td time");
+		System.out.println("Committing the code 6th time");
 
+=======
+>>>>>>> parent of 2f155a9 (Second  commit)
 	}
 
 }
