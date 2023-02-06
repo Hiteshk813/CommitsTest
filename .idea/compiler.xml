@@ -2,7 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+<<<<<<< HEAD
       <module name="CRUD.CRUD" target="17" />
+=======
+>>>>>>> parent of 6bdda8a (Fourth commit)
       <module name="CRUD.CRUD.main" target="17" />
       <module name="CRUD.CRUD.test" target="17" />
     </bytecodeTargetLevel>
